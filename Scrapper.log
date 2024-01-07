@@ -1,0 +1,168 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:18:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:18:18] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:18:18] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:18:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:18:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:18:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:18:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:21:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:21:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:21:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1091)>
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:22:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:23:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:23:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:23:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'Response' object has no attribute 'read'
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:23:47] "POST /review HTTP/1.1" 200 -
+INFO:root:'Response' object has no attribute 'read'
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:24:42] "POST /review HTTP/1.1" 200 -
+INFO:root:'Response' object has no attribute 'read'
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:24:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:25:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:25:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:25:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:26:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:27:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:27:05] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:27:05] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:28:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:31:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:31:24] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:31:24] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:31:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:34:03] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:34:46] "POST /review HTTP/1.1" 200 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:34:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:35:38] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:42:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:42:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:42:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:42:14] "POST /review HTTP/1.1" 200 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:42:36] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:45:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:46:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:46:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:46:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:comment head
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:database issue
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:46:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:46:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:46:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.247.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:comment head
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:51:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:51:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:51:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:comment head
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:database issue
+INFO:root:The resolution lifetime expired after 21.215 seconds: Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:58:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:58:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 16:58:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:comment head
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:database issue
+INFO:root:The resolution lifetime expired after 21.220 seconds: Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.; Server 192.168.247.122 UDP port 53 answered The DNS operation timed out.
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 17:00:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 17:00:08] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 17:00:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
