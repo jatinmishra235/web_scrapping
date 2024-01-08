@@ -61,7 +61,8 @@ def index():
             try:
                 client = pymongo.MongoClient("mongodb+srv://jatin:mishra@scrapper.xxvx9vh.mongodb.net/?retryWrites=true&w=majority")
                 db = client['scrapping_db']
-                coll = db['scrapper_coll']
+                # coll = db['scrapper_coll']
+                coll = db[searchString]
                 coll.insert_many(reviews)
             except Exception as e:
                 logging.info('database issue')
@@ -73,5 +74,5 @@ def index():
     else:
         return render_template('index.html')
 if __name__=="__main__":
-    app.run(host="0.0.0.0")
-    # app.run()
+    # app.run(host="0.0.0.0")
+    app.run()
